@@ -21,7 +21,7 @@ Currently freelancing, looking for a full-time position worldwide (Remote work p
 - 👨🏽‍💻 I am currently able to work with React, NodeJS, Angular, Spring boot and some extra stuff;
 - 📚 I’m currently sharpening my skills in  the previous mentioned tech stack and Docker, Kubernetes, React Native; 
 - 💬 Available to coop with open-source community, so if in need of extra hands and brain, just reach me.  
-- 📫 How to reach me: [@jonathasgermano](https://www.linkedin.com/in/jonathas-germano-65bb08a9/);
+- 📫 How to reach me: [@jonathasgermano](https://www.linkedin.com/in/jonathas-germano-65bb08a9/)
 
 <br/>[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jonathas3c&count_private=true&count_private=true&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
 
