@@ -3,7 +3,7 @@
 
 <!-- <img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="300px"> -->
 
-<p><em>Systems Analysis graduate at Estacio</em></p>
+<p><em>Systems Analysis graduate at Estacio</br>
 <p><em>Currently freelancing, looking for a full-time position worldwide (Remote work preferred)</em></p>
 
 <a href="https://www.linkedin.com/in/jonathas-germano-65bb08a9/">
