@@ -23,6 +23,6 @@ Currently freelancing, looking for a full-time position worldwide (Remote work p
 - 💬 Available to coop with open-source community, so if in need of extra hands and brain, just reach me.  
 - 📫 How to reach me: [@jonathasgermano](https://www.linkedin.com/in/jonathas-germano-65bb08a9/)
 
-<br/>[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jonathas3c&count_private=true&count_private=true&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
+<br/><!--[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jonathas3c&count_private=true&count_private=true&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)-->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonathas3c&layout=compact&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
