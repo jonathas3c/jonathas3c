@@ -14,7 +14,7 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=jonathas3c.jonathas3c)
 
 <p><em>Systems Analysis graduate at Estacio</br>
-Currently freelancing, looking for a full-time position worldwide (Remote work preferred)</em></p>
+IT Analyst at Tata Consultancy Services Brazil</em></p>
 
 **About me:**
 
