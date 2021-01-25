@@ -21,7 +21,7 @@ IT Analyst at Tata Consultancy Services Brazil</em></p>
 - 👨🏽‍💻 &nbsp;&nbsp;&nbsp; I am currently able to work with React, NodeJS, Angular, Spring boot and some extra stuff;
 - 📚 &nbsp;&nbsp;&nbsp; Sharpening my skills in  the previous mentioned tech stack and Docker, Kubernetes, React Native; 
 - 💬 &nbsp;&nbsp;&nbsp; Available to coop with open-source community, so if in need of extra hands and brain, just reach me;  
-- 📫 &nbsp;&nbsp;&nbsp; How to reach me: [@jonathasgermano](https://www.linkedin.com/in/jonathas-germano-65bb08a9/);
+- 📫 &nbsp;&nbsp;&nbsp; How to reach me: [@jonathasgermano](https://www.linkedin.com/in/jonathas-germano-65bb08a9/) ;
 
 <br/><!--[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jonathas3c&count_private=true&count_private=true&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)-->
 
