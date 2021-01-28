@@ -15,7 +15,7 @@
 
 <p><em>Systems Analysis graduate at Estacio</br>
 IT Analyst at Tata Consultancy Services Brazil</em></p>
-
+<hr>
 **About me:**
 
 - 👨🏽‍💻 &nbsp;&nbsp;&nbsp; I am currently able to work with React, NodeJS, Angular, Spring boot and some extra stuff;
