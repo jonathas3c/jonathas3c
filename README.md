@@ -3,7 +3,7 @@
 
 <!-- <img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="300px"> -->
 
-<a href="https://www.linkedin.com/in/jonathas-germano-65bb08a9/">
+<a href="https://www.linkedin.com/in/jonathasgermano/">
   <img align="left" alt="Jonathas' LinkedIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
