@@ -14,7 +14,7 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=jonathas3c.jonathas3c)
 
 <p><em>Systems Analysis graduate at Estacio</br>
-Front end developer at Tata Consultancy Services Brazil</em></p>
+Front end developer </em></p>
 <hr>
 **About me:**
 
