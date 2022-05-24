@@ -4,11 +4,11 @@
 <!-- <img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="300px"> -->
 
 <a href="https://www.linkedin.com/in/jonathasgermano/">
-  <img align="left" alt="Jonathas' LinkedIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <svg align="left" alt="Jonathas' LinkedIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
 </a>
 
 <a href="https://www.instagram.com/jonathasgermano/">
-  <img align="left" alt="Jonathas' Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <svg align="left" alt="Jonathas' Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=jonathas3c.jonathas3c)
