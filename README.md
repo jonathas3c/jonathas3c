@@ -23,6 +23,6 @@ Front end developer </em></p>
 - 💬 &nbsp;&nbsp;&nbsp; Available to coop with open-source community, so if in need of extra hands and brain, just reach me;  
 - 📫 &nbsp;&nbsp;&nbsp; How to reach me: [@jonathasgermano](https://www.linkedin.com/in/jonathasgermano/) ;
 
-<br/>[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jonathas3c&count_private=true&count_private=true&theme=codeSTACKr&hide=stars,prs,issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
+<br/>[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jonathas3c&count_private=true&count_private=true&theme=great-gatsby&hide=stars,prs,issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonathas3c&layout=compact&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonathas3c&layout=compact&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)
