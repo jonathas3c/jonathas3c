@@ -6,7 +6,7 @@ Fullstack Developer at Jalasoft</em></p>
 <p>Open for contributing to open source projects</p>
 <hr>
 
-[![](https://visitcount.itsvg.in/api?id=jonathas3c&icon=6&color=7)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=jonathas3c&label=Profile%20Views&color=3&icon=6&pretty=true)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jonathasgermano) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jonathasgermano) 
@@ -18,5 +18,3 @@ Fullstack Developer at Jalasoft</em></p>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jonathas3c&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jonathas3c&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=jonathas3c&theme=algolia&no-frame=false&no-bg=false&margin-w=4)
