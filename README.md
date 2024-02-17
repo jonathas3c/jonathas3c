@@ -3,6 +3,7 @@
 <p><em>Computer Systems Analysis and Development graduate at Estacio</br>
 Fullstack Developer at Jalasoft</em></p>
 
+<p>A bit about me - I'm a frontend heavy fullstack engineer from Brazil with over 5 years of industry experience, including on-site work in Brazil and India and remote collaboration with teams in Latin America and the U.S. over the last three years. I've always been engaged in projects that enhance the developer experience of the whole team and the company as a whole, mostly by developing and validating UI kits and component libraries in the teams I had the opportunity to collaborate.</p>
 <p>Open for contributing to open source projects</p>
 <hr>
 
