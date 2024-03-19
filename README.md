@@ -1,5 +1,5 @@
-### Hey! Jonathas here, and welcome to my profile! 👋🏽
-<hr>
+https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0c1014,100:599cab&text=✌️Hey,%20Jonathas%20here!&descAlign=26&fontAlign=35&textBg=false&descAlignY=60&fontSize=48&fontAlignY=48&desc=Welcome%20to%20my%20profile&reversal=true&section=header&fontColor=fff
+</br>
 <p><em>Computer Systems Analysis and Development graduate at Estacio</br>
 Fullstack Developer at Jalasoft</em></p>
 
