@@ -2,9 +2,9 @@
 
 
 <em>Computer Systems Analysis and Development graduate at Estacio</br>
-Frontend Engineer at FCX Labs</em></p>
+Frontend Engineer at GoFasti</em></p>
 
-<p>A bit about me - I'm a frontend heavy fullstack engineer from Brazil with over 5 years of industry experience, including on-site work in Brazil and India and remote collaboration with teams in Latin America and the U.S. over the last three years. I've always been engaged in projects that enhance the developer experience of the whole team and the company as a whole, mostly by developing and validating UI kits and component libraries in the teams I had the opportunity to collaborate with.</p>
+<p>A bit about me - I'm a frontend heavy fullstack engineer from Brazil with over 7 years of industry experience, including on-site work in Brazil and India and remote collaboration with teams in Latin America and the U.S. since the pandemic. I've always been engaged in projects that enhance the developer experience of the whole team and the company as a whole, mostly by developing and validating UI kits and component libraries in the teams I had the opportunity to collaborate with.</p>
 <p>Actively contributing to open source projects. If you need extra hands to work with you in projects that use the tech stack below, please reach me out in one of the social media below.</p>
 
 [![](https://visitcount.itsvg.in/api?id=jonathas3c&label=Profile%20Views&color=3&icon=6&pretty=true)](https://visitcount.itsvg.in)
