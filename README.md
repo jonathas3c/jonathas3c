@@ -22,7 +22,7 @@ Frontend Engineer at GoFasti</em></p>
 
 ## 📊 GitHub Stats:
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=jonathas3c&custom_title=🚀%20Jonathas'%20commit%20history&bg_color=0c1014&color=83b3b1&title_color=599cab&line=2aa788&outline=10&point=2aa788&radius=8&height=420)
+![](https://github-readme-activity-graph.vercel.app/graph?username=jonathas3c&custom_title=🚀%20Jonathas'%20contribution%20history&bg_color=0c1014&color=83b3b1&title_color=599cab&line=2aa788&outline=10&point=2aa788&radius=8&height=420)
 
 ![](https://github-readme-streak-stats.herokuapp.com?user=jonathas3c&theme=gotham&border_radius=8&exclude_days=Sun%2CSat&card_width=533)
 
